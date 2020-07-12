@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "restobot-tubulj",
+  "private_key_id": "89cdd89805d8c1b9549e52b382079551e60a673a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDIbPVEts/JGLGU\nFhYkjP+QF8AozNL9bAugfjW4MblGWyRHfuba3CRSPw56D6qXIXOiLLp6SsZP/EEY\naqNycZpvzq2uyIvVoCjd+jFzR++HWZRJ1TNuRzjRk0sft1tttLexcHC3XK+vqEUI\nM9150LP5vINsU8KcgJu0tV/BmjwQacbMzvCdlSfvAUnT2xAl66BWFrp+KUtqm8Ot\ntvRcWGjNfPFiiyYjNAkazzWfZfvmuaMB2D2PvR7Kf4A0oGr+7+JGBljH5BanTy3y\nFxZ/iWZJqkzIVYPus2LaFyAtvmrjPEq4UVTfku0GAZ9xFjNCWoTRvZZAuI+qVXtX\nj/oc2UiVAgMBAAECggEANuY9krpelS9p6O3Z1941XKNc0/Ay9Q7E6ovXrCIWpXJu\nsBTPKHD3k/3Iud+Tsz0K/wewdrIHuz4WGJmRNtZuXqTmx0MQpo3t08vmArVYI6OC\nbmzzXwgsRJ/Lip7/cL/5NyXdAiTlzMBTVGlch7MGsWgVObWBz7ucqvWpio70V+wc\nksWEtugsncCPGXcTTZmkP3gh+sFjLmDF+MRqqcOG9lyr7S5+JpBezEvEefhU0XoK\nmxLdQluuYMmkxPrMtQyBwjnWYiB55kzx4PUfxPvjS50xtWTJ3yQdiMAwFMgQa3jw\niPQ7+5QeicJiK+A5epwbqVWgR0EQxMkwDNcNdN+xOwKBgQD9fOjQ4qXzcvVFEJb8\ncyDvEHYCEDPW/EBOSVIyT+8tDN2Fg5QmH9cyjXS4nxNsPSng2h89q6oEbq0LEVVN\navW3ggtiGgGwnpobPQNMltQaKUKydwDLJZBOk7g9/4fDGjw+eLWibLa/bBeL2ZAg\nI2FlLV6Ulj76MpKnEFFq3yUO5wKBgQDKaW5pw/LeovKO7w7RFZyY2y5Qq7AbLyXI\nnA3ygr5CYMoOfLlyRMTQfwNxzaLCSlaM9+vgduOKU5uPdhUmjNYyg0y/MQqidaWI\nllTQY5GMkDOBChlbq/s322t06KQParB80tL6t5hNi/ualiuiv9xKtcWq09GbfOjm\nfR6gLwjpIwKBgEbm2EwNCTP2FKqTwFeucCjOJuPe2lEoz2fWVFpkR1cHgTKmIhsj\nztKCBILbY9hjp0IQYKqkSHLi7h3pZD26TC5e/oYbFhvr0NkLkM+sZHlIzzIR3TP1\nNs7zvJYC0lt9DBrBMrTSya7zMgbY/Nowaz6cmRbgi4759FEsXEmTTs9DAoGAHdaO\n9T5yhgllUlbBS2cxL4NX/4JfspIvsrP2hmJpo6VbA+m0+LhUfxvKKTOUI6oLujot\n5mgAQPr0OqDAm281gDrEzIZxN+O55DmtBQ84fI0hWotfk5j1rpVE8PX+gVtL6wq1\nGUqJRB03mOE8S4CW+9hx7C3Pf2lZd+jH4/srCBsCgYAfKeIlQ0HhOwFs5wjGK8pq\nK4qZxMLz5UgD+oNkAuiC9iuHSFHtg8fxJ8fYzGg3+odpwWUkVbIiK8lcnrwr/Zij\nlFYzBR0P/Bi8/S2PnZa1N6uZOW3jeThwLfsz0bUxXd7IJkTB/Qv7aUuWiTdoYnPg\nBGho5JCe+UD9ZwXC1asslA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "restobotserver@restobot-tubulj.iam.gserviceaccount.com",
+  "client_id": "114881196511562550483",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/restobotserver%40restobot-tubulj.iam.gserviceaccount.com"
+}
